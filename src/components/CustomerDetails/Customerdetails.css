@@ -1,0 +1,45 @@
+.customer-details-btn{
+    background: #E1B644 !important;
+    border-color: #E1B644;
+    border-radius: 8px;
+    font-size: 20px;
+    padding: 9px;
+}
+
+.create-folder-btn{
+    background: #E1B644 ;
+    border-color: #E1B644;
+    border-radius: 8px;
+    padding: 5px;
+    margin-left: 40rem;
+    padding: 10px;
+}
+
+/* .create-folder{
+    float: right;
+    margin-left: 60rem;
+} */
+
+.texts{
+    margin-top: 25px;
+}
+
+.customerdetails-table{
+    margin-top: 15px;
+}
+
+.table-view{
+    margin-left: 10px;
+}
+
+.arrow_back{
+    margin: 30px;
+}
+.creates{
+    margin-right: 30rem;
+}
+
+.page{
+    text-align: center;
+    justify-content: center;
+}

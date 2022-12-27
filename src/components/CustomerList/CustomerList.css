@@ -1,0 +1,66 @@
+.search{
+    width: 300px;
+    /* width: 400px; */
+    background: #fff;
+    border: 1px solid #dddfe2;
+
+}
+
+.customer-table{
+    margin-top: 40px;
+    display: flex;
+}
+
+.btn-font{
+    background: #E1B644;
+    margin: 20px;
+    /* font-size: 14px; */
+    border-radius: 5px;
+    border-color: #E1B644;
+    color: #000;
+    font-weight: 500;
+}
+
+.btn-form{
+    background: #E1B644;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    padding: 6px;
+    text-decoration: none;
+    color: #000;
+}
+
+.customer-tableview{
+    margin-top: 13px;
+}
+.text{
+    text-align: center;
+}
+
+.customerlist{
+    margin-top: 50px;
+}
+
+.active{
+    display: flex;
+    margin-right: 4px;
+}
+.inactive{
+    padding-left: 3rem;
+}
+
+.customer-btn{
+    float: right;
+    margin-left: 37rem;
+}
+
+.view{
+    text-decoration: none;
+    color: black;
+}
+
+.page{
+    text-align: center;
+    justify-content: center;
+}
